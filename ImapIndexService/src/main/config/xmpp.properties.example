@@ -1,0 +1,7 @@
+de.ovgu.dke.glue.xmpp.server = Your Server Here
+
+de.ovgu.dke.glue.xmpp.user = Your Username Here
+de.ovgu.dke.glue.xmpp.pass = Your Password Here
+de.ovgu.dke.glue.xmpp.resource = Your Resource Name Here
+
+de.ovgu.dke.glue.xmpp.compression = true
